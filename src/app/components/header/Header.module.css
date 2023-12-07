@@ -1,0 +1,18 @@
+.header {
+    background: linear-gradient(to right, #4c8baf, #3e9621); /* Adjust the gradient colors */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 2em;
+    margin: 0;
+  }
+  
+  .subtitle {
+    font-size: 1.2em;
+    margin: 0;
+    margin-top: 5px;
+  }
+  
