@@ -60,7 +60,7 @@ const App = () => {
             ))}
           </select>
         </label>
-        <button type="submit" style={{color:'crimson', backgroundColor:'peachpuff'}} >Click to Get {}Info</button>
+        <button type="submit" style={{color:'crimson', backgroundColor:'peachpuff' ,cursor:'pointer'}} >Click to Get Info</button>
       </form>
                 {!animalType && <div><h2 >You have not selected any option yet. Please select an option</h2></div>}
             {loading ? <div>Loading ...</div>:
